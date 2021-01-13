@@ -3,14 +3,15 @@
 ## Olá 👋
 
 <p align="justify">
-Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Análise e Desenvolvimento de Sistemas</em></b> na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>. Sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Me considero desenvolvedor <em><b>Front-end</em></b>, porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>.
+Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Análise e Desenvolvimento de Sistemas</em></b>(5º período) na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>. Sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>
+ <!--porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>-->.
 </p>
 
 
 
 <p align="justify">
  <br/> 👔 <b>Atualmente estou trabalhando?</b>&nbsp;  Não, não estou trabalhando, estou ha procura de um trabalho
- <br/> ❤ <b>Buscando colaborar em quais tipos de projetos?:</b>&nbsp; Em projetos Front-end usando Javascript, Node.js, ou até mesmo no Back-end
+ <br/> ❤ <b>Buscando colaborar em quais tipos de projetos?:</b>&nbsp; Em projetos Front-end usando Javascript, Node.js. <!--ou até mesmo no Back-end-->
  <br/> 🤓 <b>Posso te ajudar com:</b>&nbsp; JavaScript, CSS, HTML, Node.js, Docker, Postgresql, Mysql ...
  <br/> 🚀 <b>Quais tecnologia possuo domínio:</b>&nbsp; JavaScript, Node.js, Docker, Git, GitHub, Shell Script.
  <br/> 😎 <b>Quais tecnologias tenho conhecimento e práticas:</b>&nbsp; React Js, React Native, TypeScript, Expo, blip, VM Google Cloud Platform, Postgresql, Mysql, Figma, GIMP ...
