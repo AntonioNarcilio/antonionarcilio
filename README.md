@@ -9,7 +9,7 @@
 ## Olá 👋
 
 <p align="justify">
-Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Análise e Desenvolvimento de Sistemas</em></b>(5º período) na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>. Sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>
+Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Análise e Desenvolvimento de Sistemas</em></b> (5º período) na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>. Sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>
  <!--porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>-->.
 </p>
 
