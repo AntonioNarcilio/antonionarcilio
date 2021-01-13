@@ -1,5 +1,4 @@
-<img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> 
-<img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+<img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" /> <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 
 ## Olá 👋
 
