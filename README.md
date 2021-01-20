@@ -27,8 +27,8 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
 <br/>
 
 <p float="left">
-<img width="455px" src="https://github-readme-stats.vercel.app/api?username=antonionarcilio&locale=pt-br&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
-<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true" />
+<img width="455px" src="https://github-readme-stats.vercel.app/api?username=antonionarcilio&locale=pt-br&layout=compact&show_icons=true&hide_border=true&theme=dracula&cache_seconds=1800" />
+<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
 </p>
 
 
