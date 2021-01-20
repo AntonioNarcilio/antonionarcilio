@@ -71,7 +71,7 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
  <a href="https://github.com/antonionarcilio/controle-de-frotas-frontend">
   <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-frontend">
  <a href="https://github.com/antonionarcilio/imagemagick-effect-blur">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=imagemagick-effect-blur">
+  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=imagemagick-effect-blur&cache_seconds=1800">
  </a>  
  
 <br/>
