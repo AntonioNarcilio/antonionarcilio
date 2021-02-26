@@ -36,9 +36,6 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
 <br/> 📬 &nbsp; **Entre em contato comigo:**&nbsp; 
  <a href="https://www.linkedin.com/in/antonionarcilio/"  target="_blank">
  <img alt="linkedin" align="center" title="linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonionarcilio/" />
-<a href="mailto:dev.antonio.n@gmail.com">
- <img alt="gmail" align="center" title="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.antonio.n@gmail.com" />
- 
 </a>
  
   
@@ -48,44 +45,61 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
 
 <p float="left">
    
- <a href="https://github.com/antonionarcilio/aluraquiz-copadomundo">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=aluraquiz-copadomundo&cache_seconds=1800">
- </a>
- <a href="https://github.com/antonionarcilio/eco">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=eco&cache_seconds=1800" />
- </a>
- 
+<!-- move-it -->
+<a href="https://github.com/antonionarcilio/move-it">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=move-it&cache_seconds=1800">
+</a>
+<!-- aluraquiz - copa do mundo -->
+<a href="https://github.com/antonionarcilio/aluraquiz-copadomundo">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=aluraquiz-copadomundo&cache_seconds=1800">
+</a>
+
 <br/>
 <br/>
- <a href="https://github.com/antonionarcilio/happy">
-  <img width="420px" align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=happy">
- </a>
- <a href="https://github.com/antonionarcilio/proffy">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=proffy">
- </a>
+
+<!-- eco -->
+<a href="https://github.com/antonionarcilio/eco">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=eco&cache_seconds=1800" />
+</a>
+<!-- happy -->
+<a href="https://github.com/antonionarcilio/happy">
+ <img width="420px" align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=happy">
+</a>
   
 <br/>
 <br/>
 
- <a href="https://github.com/antonionarcilio/controle-de-frotas-api">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-api">
- </a>
- <a href="https://github.com/antonionarcilio/controle-de-frotas-frontend">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-frontend">
- 
+<!-- proffy -->
+<a href="https://github.com/antonionarcilio/proffy">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=proffy">
+</a>
+<!-- controle de frotas - api -->
+<a href="https://github.com/antonionarcilio/controle-de-frotas-api">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-api">
+</a>
+
 <br/>
 <br/>
 
- <a href="https://github.com/AntonioNarcilio/using-nodejs-with-imagemagick">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=using-nodejs-with-imagemagick&cache_seconds=1800">
- </a>  
- <a href="https://github.com/antonionarcilio/be-the-hero">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=be-the-hero&cache_seconds=1800">
-    
+<!-- controle de frotas - frontend -->
+<a href="https://github.com/antonionarcilio/controle-de-frotas-frontend">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-frontend">
+</a>
+<!-- using nodejs with imagemagick -->
+<a href="https://github.com/AntonioNarcilio/using-nodejs-with-imagemagick">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=using-nodejs-with-imagemagick&cache_seconds=1800">
+</a>   
+
 <br/>
 <br/>
+
+<!-- be the hero -->
+<a href="https://github.com/antonionarcilio/be-the-hero">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=be-the-hero&cache_seconds=1800">
+</a>   
+ <!-- jogo da velha -->
+<a href="https://github.com/antonionarcilio/jogo-da-velha">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=jogo-da-velha&cache_seconds=1800">
+</a>
  
- <a href="https://github.com/antonionarcilio/jogo-da-velha">
-  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=jogo-da-velha&cache_seconds=1800">
- </a>
 </p>
