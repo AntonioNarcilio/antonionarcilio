@@ -43,35 +43,37 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
 
 **Veja alguns dos projetos que participei / desenvolvi** 👇
 
+
 <p float="left">
+   
+<!-- generate-thumbnail -->
+<a href="https://github.com/antonionarcilio/generate-thumbnails">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=generate-thumbnails&cache_seconds=2000">
+</a>
    
 <!-- move-it -->
 <a href="https://github.com/antonionarcilio/move-it">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=move-it&cache_seconds=1800">
 </a>
+
+<br/>
+<br/>
+
 <!-- aluraquiz - copa do mundo -->
 <a href="https://github.com/antonionarcilio/aluraquiz-copadomundo">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=aluraquiz-copadomundo&cache_seconds=1800">
 </a>
-
-<br/>
-<br/>
-
 <!-- eco -->
 <a href="https://github.com/antonionarcilio/eco">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=eco&cache_seconds=1800" />
-</a>
-<!-- happy -->
-<a href="https://github.com/antonionarcilio/happy">
- <img width="420px" align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=happy">
 </a>
   
 <br/>
 <br/>
 
-<!-- proffy -->
-<a href="https://github.com/antonionarcilio/proffy">
- <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=proffy">
+<!-- happy -->
+<a href="https://github.com/antonionarcilio/happy">
+ <img width="420px" align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=happy">
 </a>
 <!-- controle de frotas - api -->
 <a href="https://github.com/antonionarcilio/controle-de-frotas-api">
@@ -85,21 +87,21 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou estudante do curso de <em><b>Aná
 <a href="https://github.com/antonionarcilio/controle-de-frotas-frontend">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=controle-de-frotas-frontend">
 </a>
+<!-- proffy -->
+<a href="https://github.com/antonionarcilio/proffy">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=proffy">
+</a> 
+
+<br/>
+<br/>
+
 <!-- using nodejs with imagemagick -->
 <a href="https://github.com/AntonioNarcilio/using-nodejs-with-imagemagick">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=using-nodejs-with-imagemagick&cache_seconds=1800">
-</a>   
-
-<br/>
-<br/>
-
+</a>  
 <!-- be the hero -->
 <a href="https://github.com/antonionarcilio/be-the-hero">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=be-the-hero&cache_seconds=1800">
-</a>   
- <!-- jogo da velha -->
-<a href="https://github.com/antonionarcilio/jogo-da-velha">
- <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=jogo-da-velha&cache_seconds=1800">
-</a>
+</a> 
  
 </p>
