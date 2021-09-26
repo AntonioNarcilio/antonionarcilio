@@ -48,7 +48,7 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
    
 <!-- Hls video player -->
 <a href="https://github.com/antonionarcilio/video-player-hls">
- <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=video-player-hls&cache_seconds=2000">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=video-player-hls&cache_seconds=1800">
 </a>   
 <!-- letmeask -->
 <a href="https://github.com/AntonioNarcilio/letmeask">
@@ -109,6 +109,10 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
 <!-- using nodejs with imagemagick -->
 <a href="https://github.com/AntonioNarcilio/using-nodejs-with-imagemagick">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=using-nodejs-with-imagemagick&cache_seconds=1800">
+</a>
+<!-- vivaldi window buttons mod -->
+<a href="https://github.com/AntonioNarcilio/vivaldi-window-buttons-mod">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=vivaldi-window-buttons-mod&cache_seconds=1800">
 </a> 
    
 </p>
