@@ -1,5 +1,7 @@
 <p float="left">
-   <img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+ <img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+ 
+ <img alt="TypeScript" align="center" title="TypeScript" src="https://img.shields.io/badge/Type%20Script-2F95E3?style=flat&logo=TypeScript&logoColor=white"/>
  
  <img alt="Linux" align="center" title="Linux" src="https://img.shields.io/badge/Linux-F7DF1E?style=flat&logo=Linux&logoColor=black"/>
 
@@ -9,8 +11,9 @@
 ## Olá 👋
 
 <p align="justify">
-Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento de Sistemas</em></b> na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>. Sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>
- <!--porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>-->.
+Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento de Sistemas</em></b> <!--na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>.--> e sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Tenho conhecimento e práticas em desenvolvimento Web tanto na parte do `back-end` quanto também no `front-end` que é a "area" na qual eu mais me identifico.
+ <!--Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>-->
+ <!--porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>-->
 </p>
 
 
