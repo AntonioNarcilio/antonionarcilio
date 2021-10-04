@@ -19,12 +19,11 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
 
 
 <p align="justify">
-<!--  <br/> 👔 <b>Atualmente estou trabalhando?</b>&nbsp;  Não, não estou trabalhando, estou ha procura de um trabalho -->
  <br/> ❤ <b>Buscando colaborar em quais tipos de projetos?:</b>&nbsp; Em projetos Front-end usando Javascript, Node.js. <!--ou até mesmo no Back-end-->
  <br/> 🤓 <b>Posso te ajudar com:</b>&nbsp; JavaScript, NextJs, ReactJs, Styled-Components, Node.js, Docker, Postgresql, Mysql ...
  <br/> 🚀 <b>Quais tecnologia possuo domínio:</b>&nbsp; Linux, JavaScript/Typescript, ReactJs, NextJs ,Docker, Git, GitHub, Shell Script...
  <br/> 😎 <b>Quais tecnologias tenho conhecimento e práticas:</b>&nbsp; React Js, React Native, TypeScript, Expo, Blip, VM Google Cloud Platform, Postgresql, Mysql, Figma, GIMP ...
- <br/> 😍 <b>Sobre mim:</b>&nbsp; Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender seja sobre aquilo que já tenho domínio ou sobre algo que ainda não conheço, adoro games jogos de tiro (<a href="https://www.ea.com/pt-br/games/battlefield/battlefield-4">BF4</a>), futebol (<a href="https://www.konami.com/wepes/2020/us/pt-br/ps4">PES</a>/<a href="https://www.ea.com/pt-br/games/fifa">FIFA</a>), corrida (<a href="https://www.ea.com/pt-br/games/need-for-speed">NFS</a>), tudo de um pouco; Series, Filmes e Animes.
+ <br/> 😍 <b>Sobre mim:</b>&nbsp; Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio ou sobre algo que ainda não conheço, adoro games "tudo de um pouco"; Series, Filmes e Animes 🤙🏻.
 </p>
 
 <br/>
