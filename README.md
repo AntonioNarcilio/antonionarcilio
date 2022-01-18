@@ -1,3 +1,4 @@
+<!--
 <p float="left">
  <img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
  
@@ -7,23 +8,61 @@
 
  <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </p>
+-->
 
-## Olá 👋
+## Olá <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" /></h3>
 
 <p align="justify">
-Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento de Sistemas</em></b> <!--na Instituição de ensino <a href="https://www.amelhorfaculdadedomaranhao.com.br">ISL Wyden</a>.--> e sou apaixonado por aquilo que faço, buscando sempre da o meu melhor<!--, levando assim sempre a fazer "algo próximo da perfeição"-->. Tenho conhecimento e práticas em desenvolvimento Web tanto na parte do `back-end` quanto também no `front-end` que é a "area" na qual eu mais me identifico.
- <!--Me considero desenvolvedor <em><b>Front-end</em></b>, com conhecimentos e praticas na linguagem <i>JavaScript</i>-->
- <!--porém não fico apenas na parte visual, também gosto da parte lógica do <em><b>Back-end</em></b>, não só prático como estou atrás em me especializar cada vez mais nessa área, levando assim em me tornar um desenvolvedor <em><b>Full Stack</em></b>-->
+ 
+Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento de Sistemas</em></b> e sou apaixonado por aquilo que faço, buscando sempre dar o meu melhor. Tenho conhecimento e práticas em desenvolvimento Web tanto na parte do `back-end` quanto também no `front-end` que é a "área" na qual eu mais me identifico.
+
 </p>
 
 
+<p align="justify">
+ <img align="top" src="https://user-images.githubusercontent.com/49988118/149845878-da465ac9-001b-47c3-851a-3f28d209b470.gif" width="23" /> 
+ <b>Quais tipos de projetos eu busco colaborar?
+ <br>&ensp;&emsp; 
+ </b>Em projetos front-end usando Javascript ou até mesmo quem sabe algo novo no qual eu ainda não possua conhecimento.
+</p>
+
+  <!--
+ <br/>
+ <img align="top" src="https://user-images.githubusercontent.com/49988118/149845844-fc82a3d5-a8f6-4683-b07a-bc80469eed8a.gif" width="23" /> 
+ <b>Posso te ajudar com:</b>&nbsp; JavaScript, NextJs, ReactJs, Styled-Components, Node.js, Docker, Postgresql, Mysql ...
+ -->
+ <p align="justify">
+  <img align="top" src="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" width="23" />
+  <b>Quais tecnologia possuo domínio?</b>
+  <br>&ensp;&emsp; 
+  <img alt="Linux" align="center" title="Linux" src="https://img.shields.io/badge/Linux-784DA5?style=flat&logo=Linux&logoColor=white"/>
+  <img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+  <img alt="TypeScript" align="center" title="TypeScript" src="https://img.shields.io/badge/Type%20Script-2F95E3?style=flat&logo=TypeScript&logoColor=white"/>
+  <img alt="ReactJs" align="center" title="ReactJs" src="https://img.shields.io/badge/React%20JS-5CCFEE?style=flat&logo=React&logoColor=black"/>
+  <img alt="NextJs" align="center" title="NextJs" src="https://img.shields.io/badge/Next%20JS-f8f8f8?style=flat&logo=Vercel&logoColor=black"/>
+  <img alt="Styled-Components" align="center" title="Styled-Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  <img alt="Shell Script" align="center" title="Shell Script" src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=GNUBash&logoColor=white"/>
+  <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+</p>
+
+ <p align="justify">
+  <img align="top" src="https://user-images.githubusercontent.com/49988118/149845928-66b8ba48-8d46-4ab1-9e09-6cdba7701703.gif" width="23" /> 
+  <b>Quais tecnologias eu possuo conhecimento e práticas?</b>
+  <br>&ensp;&emsp; 
+  <img alt="React Native" align="center" title="React Native" src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white"/>
+  <img alt="Expo" align="center" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
+  <img alt="Blip" align="center" title="Blip" src="https://img.shields.io/badge/Blip-00BCCC?style=flat&logo=&logoColor=white"/>
+  <img alt="VM Google Cloud Platform" align="center" title="VM Google Cloud Platform" src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
+  <img alt="PostgreSQL" align="center" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
+  <img alt="MySQL" align="center" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> ...
+</p>
 
 <p align="justify">
- <br/> ❤ <b>Buscando colaborar em quais tipos de projetos?:</b>&nbsp; Em projetos Front-end usando Javascript/TypeScript, Node.js ou até quem sabe algo novo no qual eu não tenho conhecimento. <!--ou até mesmo no Back-end-->
- <br/> 🤓 <b>Posso te ajudar com:</b>&nbsp; JavaScript, NextJs, ReactJs, Styled-Components, Node.js, Docker, Postgresql, Mysql ...
- <br/> 🚀 <b>Quais tecnologia possuo domínio:</b>&nbsp; Linux, JavaScript/Typescript, ReactJs, NextJs ,Docker, Git, GitHub, Shell Script...
- <br/> 😎 <b>Quais tecnologias tenho conhecimento e práticas:</b>&nbsp; React Js, React Native, TypeScript, Expo, Blip, VM Google Cloud Platform, Postgresql, Mysql, Figma, GIMP ...
- <br/> 😍 <b>Sobre mim:</b>&nbsp; Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio ou sobre algo que ainda não conheço, adoro games "tudo de um pouco"; Series, Filmes e Animes 🤙🏻.
+ <img align="top" src="https://user-images.githubusercontent.com/49988118/149845826-255a742b-f946-4c1a-8932-eb622e0ae4e5.gif" width="23" />
+ <b>Um pouco mais sobre mim:</b>
+ <br>&ensp;&emsp; 
+Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender algo novo, seja sobre aquilo que já tenho domínio 
+<br>&ensp;&emsp; ou sobre algo que ainda não conheço 🤙🏻.
 </p>
 
 <br/>
