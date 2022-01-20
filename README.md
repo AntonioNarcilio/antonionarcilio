@@ -151,7 +151,7 @@ Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender alg
 </a>
  
 <!-- generate-thumbnail -->
-<a href="https://github.com/antonionarcilio/generate-thumbnails">
+<a href="https://github.com/AntonioNarcilio/shell-script/tree/thumbnail-generator">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=generate-thumbnails&cache_seconds=2000">
 </a> 
  
@@ -159,7 +159,7 @@ Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender alg
 <br/> 
  
 <!-- vivaldi window buttons mod -->
-<a href="https://github.com/AntonioNarcilio/vivaldi-window-buttons-mod">
+<a href="https://github.com/AntonioNarcilio/shell-script/tree/vivaldi-window-buttons-mod">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=vivaldi-window-buttons-mod&cache_seconds=1800">
 </a> 
    
