@@ -26,12 +26,7 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
  </b>Em projetos front-end usando Javascript ou até mesmo quem sabe algo novo no qual eu ainda não possua conhecimento.
 </p>
 
-  <!--
- <br/>
- <img align="top" src="https://user-images.githubusercontent.com/49988118/149845844-fc82a3d5-a8f6-4683-b07a-bc80469eed8a.gif" width="23" /> 
- <b>Posso te ajudar com:</b>&nbsp; JavaScript, NextJs, ReactJs, Styled-Components, Node.js, Docker, Postgresql, Mysql ...
- -->
- <p align="justify">
+<p align="justify">
   <img align="top" src="https://user-images.githubusercontent.com/49988118/149845918-84b8c1d8-fb23-4953-9b51-19241afbdc36.gif" width="23" />
   <b>Quais tecnologia possuo domínio?</b>
   <br>&ensp;&emsp; 
@@ -86,23 +81,26 @@ Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender alg
 
 
 <p float="left">
+ <!-- what am i study -->
+<a href="https://github.com/AntonioNarcilio/what-am-i-studying">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=what-am-i-studying&cache_seconds=1600">
+
+</a>  
    
 <!-- Hls video player -->
 <a href="https://github.com/antonionarcilio/video-player-hls">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=video-player-hls&cache_seconds=1800">
 </a>   
+ 
+
+<br/>
+<br/>
+ 
 <!-- letmeask -->
 <a href="https://github.com/AntonioNarcilio/letmeask">
- <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=letmeask&cache_seconds=2000">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=letmeask&cache_seconds=1800">
 </a>
-
-<br/>
-<br/>
-
-<!-- generate-thumbnail -->
-<a href="https://github.com/antonionarcilio/generate-thumbnails">
- <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=generate-thumbnails&cache_seconds=2000">
-</a>     
+    
 <!-- move-it -->
 <a href="https://github.com/antonionarcilio/move-it">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=move-it&cache_seconds=1800">
@@ -151,6 +149,15 @@ Curto experimentar novas ferramentas/tecnologias, sempre disposto a aprender alg
 <a href="https://github.com/AntonioNarcilio/using-nodejs-with-imagemagick">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=using-nodejs-with-imagemagick&cache_seconds=1800">
 </a>
+ 
+<!-- generate-thumbnail -->
+<a href="https://github.com/antonionarcilio/generate-thumbnails">
+ <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&repo=generate-thumbnails&cache_seconds=2000">
+</a> 
+ 
+<br/>
+<br/> 
+ 
 <!-- vivaldi window buttons mod -->
 <a href="https://github.com/AntonioNarcilio/vivaldi-window-buttons-mod">
  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonionarcilio&locale=pt-br&layout=compact&theme=dracula&hide_border=true&custom_title=a&repo=vivaldi-window-buttons-mod&cache_seconds=1800">
