@@ -1,15 +1,3 @@
-<!--
-<p float="left">
- <img alt="JavaScript" align="center" title="JavaScript" src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
- 
- <img alt="TypeScript" align="center" title="TypeScript" src="https://img.shields.io/badge/Type%20Script-2F95E3?style=flat&logo=TypeScript&logoColor=white"/>
- 
- <img alt="Linux" align="center" title="Linux" src="https://img.shields.io/badge/Linux-F7DF1E?style=flat&logo=Linux&logoColor=black"/>
-
- <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-</p>
--->
-
 ## Olá <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" /></h3>
 
 <p align="justify">
@@ -38,6 +26,9 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
   <img alt="Styled-Components" align="center" title="Styled-Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img alt="Shell Script" align="center" title="Shell Script" src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=GNUBash&logoColor=white"/>
   <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img alt="NodeJs" align="center" title="NodeJs" src="https://img.shields.io/badge/Node%20Js-339933?style=flat&logo=Node.Js&logoColor=white"/>
+  <img alt="Vercel" align="center" title="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
+  <img alt="Heroku" align="center" title="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
 </p>
 
  <p align="justify">
@@ -49,7 +40,11 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
   <img alt="Blip" align="center" title="Blip" src="https://img.shields.io/badge/Blip-00BCCC?style=flat&logo=&logoColor=white"/>
   <img alt="VM Google Cloud Platform" align="center" title="VM Google Cloud Platform" src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
   <img alt="PostgreSQL" align="center" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-  <img alt="MySQL" align="center" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> ...
+  <img alt="MySQL" align="center" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img alt="MongoDB" align="center" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <img alt="FireBase" align="center" title="FireBase" src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white"/>
+  <img alt="GraphQl" align="center" title="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=GraphQl&logoColor=white"/>
+  <img alt="Jest" align="center" title="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
 </p>
 
 <p align="justify">
