@@ -26,6 +26,7 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
   <img alt="Styled-Components" align="center" title="Styled-Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img alt="Shell Script" align="center" title="Shell Script" src="https://img.shields.io/badge/Shell%20Script-4EAA25?style=flat&logo=GNUBash&logoColor=white"/>
   <img alt="Docker" align="center" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+   <br>&ensp;&emsp; 
   <img alt="NodeJs" align="center" title="NodeJs" src="https://img.shields.io/badge/Node%20Js-339933?style=flat&logo=Node.Js&logoColor=white"/>
   <img alt="Vercel" align="center" title="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
   <img alt="Heroku" align="center" title="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
