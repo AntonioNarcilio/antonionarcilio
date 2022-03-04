@@ -36,13 +36,12 @@ Me chamo <em><b>Antônio Narcilio</b></em> sou <em><b>Análise e Desenvolvimento
   <img align="top" src="https://user-images.githubusercontent.com/49988118/149845928-66b8ba48-8d46-4ab1-9e09-6cdba7701703.gif" width="23" /> 
   <b>Quais tecnologias eu possuo conhecimento e práticas?</b>
   <br>&ensp;&emsp; 
-  <img alt="React Native" align="center" title="React Native" src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white"/>
-  <img alt="Expo" align="center" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/>
-  <img alt="Blip" align="center" title="Blip" src="https://img.shields.io/badge/Blip-00BCCC?style=flat&logo=&logoColor=white"/>
+  <!-- <img alt="React Native" align="center" title="React Native" src="https://img.shields.io/badge/React%20Native-0088CC?style=flat&logo=React&logoColor=white"/>
+  <img alt="Expo" align="center" title="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat&logo=Expo&logoColor=white"/> -->
   <img alt="VM Google Cloud Platform" align="center" title="VM Google Cloud Platform" src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/>
   <img alt="PostgreSQL" align="center" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
   <img alt="MySQL" align="center" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img alt="MongoDB" align="center" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+  <!-- <img alt="MongoDB" align="center" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> -->
   <img alt="FireBase" align="center" title="FireBase" src="https://img.shields.io/badge/FireBase-FFCA28?style=flat&logo=FireBase&logoColor=white"/>
   <img alt="GraphQl" align="center" title="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=GraphQl&logoColor=white"/>
   <img alt="Jest" align="center" title="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
